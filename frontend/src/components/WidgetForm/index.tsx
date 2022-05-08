@@ -64,7 +64,7 @@ export function WidgetForm(): JSX.Element {
             )}
 
             <footer className="text-xs text-neutral-500 dark:text-neutral-400">
-                Feito com ♥ pela <a className="underline underline-offset-1" href='https://rocketseat.com.br'> Rocketseat</a>
+                Feito com ♥ por <a href='https://www.linkedin.com/in/fernando-henrique-p-cardozo/' className='underline underline-offset-1' > Fernando Cardozo</a> e <a className="underline underline-offset-1" href='https://rocketseat.com.br'> Rocketseat</a>
             </footer>
         </div>
     )
