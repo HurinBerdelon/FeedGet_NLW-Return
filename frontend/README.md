@@ -1,4 +1,4 @@
-# Crypto Balance FrontEnd
+# Feedback Widget FrontEnd
 
 <table>
     <tr>
