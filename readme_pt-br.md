@@ -29,7 +29,7 @@ Para rodar o projeto localmente, clone esse repositório para a máquina local e
 
 ## Contact
 
-<h3>Fernando Henrique Pereira Cardozo (HurinBerdelon)</h3>
+<h3>Fernando Henrique Pereira Cardozo (HurinBerdelon)</h3> 
 
 <a href="https://www.linkedin.com/in/fernando-henrique-p-cardozo-17ab84a3/" target='_blank'>
     <img 
